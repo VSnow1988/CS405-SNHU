@@ -1,5 +1,5 @@
 # CS405-SNHU
-## SNHU CS 405 - Secure Coding
+## SNHU CS 405 - Secure Coding : Winter 2023
 
 ### Assignments
 Secure coding puzzles and excercises.
